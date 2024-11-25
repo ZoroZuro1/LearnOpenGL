@@ -69,6 +69,11 @@ set(CHAPTERS
     5.advanced_lighting
     6.pbr
     7.in_practice
+    RobotArm
+)
+
+set(RobotArm
+    robotArm
 )
 
 set(1.getting_started
